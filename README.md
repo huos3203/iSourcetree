@@ -16,7 +16,7 @@ SourceTree自定义操作脚本库
 
 
 # SourceTree Custom Actions
-[摘自](https://github.com/huos3203/sourcetree-custom-actions-scripts/edit/master/README.md)
+[摘自](sourcetree-custom-actions-scripts/edit/master/README.md)
 
 用在SourceTree自定义操作的命令集
 
