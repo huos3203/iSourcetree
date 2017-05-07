@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:git-svn-dcommit.sh">
+   </FileRef>
+   <FileRef
+      location = "group:git-svn-rebase.sh">
+   </FileRef>
+   <Group
+      location = "group:img"
+      name = "img">
+      <FileRef
+         location = "group:customAction.png">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:img/customAction.png">
+   </FileRef>
+   <FileRef
+      location = "group:open_xcode_project.sh">
+   </FileRef>
+   <FileRef
+      location = "group:pushPodSpec.sh">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+</Workspace>
