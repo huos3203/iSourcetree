@@ -33,7 +33,7 @@ fi
 #托管私库名
 repoNAME=podRepo
 #远程托管库
-repoURL=https://github.com/huos3203/PodRepo.git
+repoURL=https://github.com/it-boyer/PodRepo.git
 #本地索引库库
 repoPATH=`pod repo list | grep /.*${repoNAME}$ | sed 's/- Path: //g' | sed 's/- URL: //g'`
 

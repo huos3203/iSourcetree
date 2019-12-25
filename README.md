@@ -4,7 +4,7 @@ SourceTree自定义操作脚本库
 
 ## 推送Pod索引私库
 自动检索本地目录中的`.podspec`私有索引文件，然后发布到指定的私库中去。
-暂时仅支持[个人私库中](https://github.com/huos3203/PodRepo.git)。
+暂时仅支持[个人私库中](https://github.com/it-boyer/PodRepo.git)。
 
 [详情](pushPodSpec.sh)
 
@@ -16,7 +16,7 @@ SourceTree自定义操作脚本库
 
 
 # SourceTree Custom Actions
-[摘自](https://github.com/huos3203/sourcetree-custom-actions-scripts/blob/master/README.md)
+[摘自](https://github.com/it-boyer/sourcetree-custom-actions-scripts/blob/master/README.md)
 
 用在SourceTree自定义操作的命令集
 
